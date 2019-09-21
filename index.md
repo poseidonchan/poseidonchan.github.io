@@ -99,6 +99,8 @@
 > - Have you ever heard of DONALD E. KNUTH ? He is one of the writers of this book!!! *[Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_1?__mk_zh_CN=亚马逊网站&keywords=Concrete+Mathematics&qid=1569079516&s=gateway&sr=8-1)*
 > - Focus on its application *[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/ref=sr_1_2?__mk_zh_CN=亚马逊网站&keywords=discrete+Mathematics&qid=1569079858&s=gateway&sr=8-2)*
 
+>*[国外优秀数学教材点评](https://github.com/poseidonchan/Hello-World/blob/master/国外优秀数学教材点评.html)*
+
 ## WESTERN CANON
 > ZhangLingxia's book *[外国文学专题研究](http://product.dangdang.com/1306762311.html)*
 
