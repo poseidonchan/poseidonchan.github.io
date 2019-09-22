@@ -55,7 +55,7 @@
 >
 > - HAVE NO IDEAS ABOUT THIS *[Gravity: An Introduction to Einstein's General Relativity](https://www.amazon.com/Gravity-Introduction-Einsteins-General-Relativity/dp/0805386629/ref=sr_1_7?__mk_zh_CN=亚马逊网站&keywords=general+relativity&qid=1568190774&s=gateway&sr=8-7)*
 
-##ABOUT MATHEMATICS(作为没怎么学过的人我已经尽力了)
+## ABOUT MATHEMATICS(作为没怎么学过的人我已经尽力了)
 >Calculus or Analysis
 >
 > - Thomas Calculus(FAMOUS) *[Thomas' Calculus](https://www.amazon.com/Thomas-Calculus-14th-Joel-Hass/dp/0134438981/ref=sr_1_1?__mk_zh_CN=亚马逊网站&keywords=Thomas+calculus&qid=1569077408&s=gateway&sr=8-1)*
